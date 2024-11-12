@@ -1,0 +1,25 @@
+body {
+    background-color: aqua;
+    margin-top: 8px;
+    margin-left:12px;
+    margin-right:12px;
+    margin-bottom:8px;
+    display:grid;
+    place-items: center;
+    width: 200px;
+    height: 300px;
+}
+div {
+    display: grid;
+    padding: 12%;
+}
+#icon {
+    color: rgb(90, 60, 14);
+    padding: 12px;
+}
+#wrap {
+    border: 3px coral;
+    background-origin: padding-box;
+    border-radius: 4pt;
+    display: flex;
+}

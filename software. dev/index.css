@@ -1,0 +1,11 @@
+body {
+    background-color: cornflowerblue;
+    width: 100%;
+    justify-content: center;
+    display: grid;
+    align-content: center;
+}
+#name{
+    color: rgba(30, 45, 73, 0.815);
+    width: 23;
+}
